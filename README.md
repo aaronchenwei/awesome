@@ -1,5 +1,7 @@
 # A List of Awesome Things
 
+[toc]
+
 ## Graph
 
 ### Graph Deep Learning
