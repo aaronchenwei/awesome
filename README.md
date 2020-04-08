@@ -1,6 +1,15 @@
 # A List of Awesome Things
 
-[toc]
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [A List of Awesome Things](#a-list-of-awesome-things)
+	- [Graph](#graph)
+		- [Graph Deep Learning](#graph-deep-learning)
+			- [Papers](#papers)
+			- [Frameworks](#frameworks)
+			- [Benchmark](#benchmark)
+
+<!-- /TOC -->
 
 ## Graph
 
@@ -21,4 +30,3 @@
 - [Benchmarking Graph Neural Networks](https://github.com/graphdeeplearning/benchmarking-gnns)
 
   https://arxiv.org/abs/2003.00982
-  
