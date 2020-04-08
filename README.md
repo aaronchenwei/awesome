@@ -1,16 +1,12 @@
 # A List of Awesome Things
 
 ## Table of Contents
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [A List of Awesome Things](#a-list-of-awesome-things)
-	- [Graph](#graph)
-		- [Graph Deep Learning](#graph-deep-learning)
-			- [Papers](#papers)
-			- [Frameworks](#frameworks)
-			- [Benchmark](#benchmark)
-
-<!-- /TOC -->
+- [Graph](#graph)
+  - [Graph Deep Learning](#graph-deep-learning)
+    - [Papers](#papers)
+    - [Frameworks](#frameworks)
+    - [Benchmark](#benchmark)
 
 ## Graph
 
