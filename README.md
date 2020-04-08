@@ -6,7 +6,7 @@
   - [Graph Deep Learning](#graph-deep-learning)
     - [Papers](#papers)
     - [Frameworks](#frameworks)
-    - [Benchmark](#benchmark)
+    - [Benchmarking](#benchmarking)
 
 ## Graph
 
@@ -22,7 +22,7 @@
 
 - [Alibaba Graph-Learn(GL)](https://github.com/alibaba/graph-learn)
 
-#### Benchmark
+#### Benchmarking
 
 - [Benchmarking Graph Neural Networks](https://github.com/graphdeeplearning/benchmarking-gnns)
 
