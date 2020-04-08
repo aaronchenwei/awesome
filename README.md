@@ -1,4 +1,4 @@
-# awesome
+# A List of Awesome Things
 
 ## Graph
 
