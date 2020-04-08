@@ -1,5 +1,6 @@
 # A List of Awesome Things
 
+## Table of Contents
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [A List of Awesome Things](#a-list-of-awesome-things)
