@@ -32,5 +32,4 @@
 ## Micro Frontends
 
 - [introductory](https://martinfowler.com/articles/micro-frontends.html)
-- https://micro-frontends.org/
-
+- [https://micro-frontends.org/](https://micro-frontends.org/)
