@@ -7,6 +7,7 @@
     - [Papers](#papers)
     - [Frameworks](#frameworks)
     - [Benchmarking](#benchmarking)
+- [Micro Frontends](#micro-frontends)
 
 ## Graph
 
@@ -27,3 +28,8 @@
 - [Benchmarking Graph Neural Networks](https://github.com/graphdeeplearning/benchmarking-gnns)
 
   https://arxiv.org/abs/2003.00982
+
+## Micro Frontends
+
+### Introductory
+[introductory](https://martinfowler.com/articles/micro-frontends.html)
